@@ -1,6 +1,6 @@
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(230, 159, 66);
 }.app-title{
     text-align:center;
 }
@@ -9,11 +9,12 @@ body{
     margin:10px auto ;
     width:300px;
     padding:10px;
-    font-size:20px;
+    font-size:25px;
+    color: white;
 }
 .temperature-text{
     text-align:center;
-    font-size:30px;
+    font-size:35px;
 }
 .message-text{
     text-align:center;
